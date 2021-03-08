@@ -1,6 +1,6 @@
 # ToDo List на Vue3
 
-##![Imgur](https://i.imgur.com/l2Vc6dr.gif)
+## ![Imgur](https://i.imgur.com/l2Vc6dr.gif)
 
 ## Project setup
 ```
